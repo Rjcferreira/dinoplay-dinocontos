@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "dinocontos",
+  "name": "DinoContos",
+  "version": "1.0.0",
+  "entry": "index.html",
+  "category": "learn",
+  "age": "4+",
+  "cover": "cover.png",
+  "description": "Ouve cinco histórias originais narradas, acompanha cada página e descobre valores importantes.",
+  "offline": true,
+  "multiplayer": false,
+  "permissions": [
+    "storage"
+  ],
+  "languages": [
+    "pt-PT"
+  ],
+  "assets": [
+    "index.html",
+    "style.css",
+    "game.js",
+    "cover.png",
+    "art/lumi.png",
+    "art/tico.png",
+    "art/mara.png",
+    "art/pipo.png",
+    "art/festa.png",
+    "sdk/dinoplay-game-sdk.js"
+  ],
+  "license": "MIT",
+  "author": "DinoPlay Team"
+}
