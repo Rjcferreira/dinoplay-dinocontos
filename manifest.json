@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "dinocontos",
   "name": "DinoContos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "entry": "index.html",
   "category": "learn",
   "age": "4+",
